@@ -6,6 +6,15 @@ using System.Threading.Tasks;
 
 namespace ShopOnline.Models.Dtos
 {
+    //DTO Data Transfer Object
+    //dot is an object that defines how the data will be sent over the network
+    //when passing data between the server and the client, we sometimes dont want to send necessarily the exact data
+    //defined by the properties in the classes that represent in the database entities
+    //for example with in the class Product we have a CategoryId which is not something the user/client needs to see
+    //the CategoryId properties within the product entity is a foreign key from the product category entity
+    //it would be more conventinal to have the CategoryName in additon to the ProductInfo defined in the product class
+    //when creating this model we still need to include all other properties as well as the ProductName
+    //this type of model includes the data that needs to be passed between server and client  
     public class CartItemDtos
     {
         public int Id { get; set; }

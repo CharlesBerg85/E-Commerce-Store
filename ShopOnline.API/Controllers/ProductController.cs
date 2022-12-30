@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using ShopOnline.API.Entities;
 using ShopOnline.API.Extensions;
 using ShopOnline.API.Repositories.Contracts;
 using ShopOnline.Models.Dtos;
@@ -8,6 +9,9 @@ namespace ShopOnline.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    
+    //here an object of type productRepository is automatically injected into our controller
+    //class's constructor via depecdency injection
     public class ProductController : ControllerBase
     {
         private readonly IProductRepository productRepository;
@@ -22,7 +26,10 @@ namespace ShopOnline.API.Controllers
         {
             try
             {
+                //this will call the productRepository class's getItem method asynchronously 
+                //to return an IEnumerable collection of type product to our Action method
                 var products = await this.productRepository.GetItems();
+                //return an IEnumerable collection of type productCategories to our Action method
                 var productCategories = await this.productRepository.GetCategories();
 
                 if (products == null || productCategories == null) 
@@ -31,6 +38,9 @@ namespace ShopOnline.API.Controllers
                 }
                 else
                 {
+                    //we want to join the collection of ProductCategories with the collection of Products
+                    //this will return a collection of ProductDTOS to the Client the will also include 
+                    //CategoryName, remember the productDto definition contiains a CategoryName property 
                     var productDtos = products.ConvertToDto((IEnumerable<Entities.ProductCategory>)productCategories);
 
                     return Ok(productDtos);

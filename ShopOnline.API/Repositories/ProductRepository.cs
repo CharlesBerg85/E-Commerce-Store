@@ -8,6 +8,7 @@ namespace ShopOnline.API.Repositories
 {
     public class ProductRepository : IProductRepository
     {
+        // these are the method definitions the were created in IProductRepository
         private readonly ShopOnlineDbContext shopOnlineDbContext;
 
         public ProductRepository(ShopOnlineDbContext shopOnlineDbContext)
@@ -33,6 +34,7 @@ namespace ShopOnline.API.Repositories
 
         public async Task<IEnumerable<Product>> GetItems()
         {
+            //return all products from the products table
             var products = await this.shopOnlineDbContext.Products.ToListAsync();
             return products;
         }
