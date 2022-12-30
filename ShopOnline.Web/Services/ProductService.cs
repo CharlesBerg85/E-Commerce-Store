@@ -18,7 +18,14 @@ namespace ShopOnline.Web.Services
         {
             try
             {
+                //create a variable to call the GetItems Action method
+                //that resides within the product controller of our
+                //web api component. Using GetFromJsonAsync we can return an
+                //IEnumerable collection of type ProductDto
+                //this method will translate the data which will be in json returned
+                //from the web API Componenet to an object of type IEnumerable ProductDto
                 var products = await this.httpClient.GetFromJsonAsync<IEnumerable<ProductDto>>("api/Product");
+                return products
             }
             catch (Exception)
             {

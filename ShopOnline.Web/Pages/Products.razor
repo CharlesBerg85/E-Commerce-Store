@@ -1,0 +1,13 @@
+﻿@*we want our products.razor component to be invoked when our application is first loaded*@
+@*we can make sure this happens by declaring information about our razor components route at the top of this page*@
+@*when a Razor component with an @page directive is compiled the generated component class is provided a root... *@
+@*attribute specifying the component's root template. here we are providing a "/", this means when the URL contains...*@
+@*only the base URL for our Blazor Component that our ProductsDto Razor component will be invoked*@
+@page "/"
+@*this declares that the Razor component inherits the ProductsBase*@
+@inherits ProductsBase
+<h3>Products</h3>
+
+@code {
+
+}
