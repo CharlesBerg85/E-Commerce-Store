@@ -6,10 +6,10 @@ namespace ShopOnline.API.Extensions
     //it is importain that the class that houses our extension method is static
     public static class DtosConversions
     {
-        public static IEnumerable<ProductDto> ConvertToDto(this IEnumerable<Product> products,
+        public static IEnumerable<ProductDto> /*Method Name*/ ConvertToDto(this IEnumerable<Product> products,
                                                             IEnumerable<ProductCategory> productCategories)
         {
-            //this is joining the collection of the productCategories with the collection of product
+            //using Linq methods this is joining the collection of the productCategories with the collection of product
             
             return (from product in products
                     join productCategory in productCategories

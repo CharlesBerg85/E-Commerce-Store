@@ -3950,11 +3950,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\The Berg\\OneDrive\\Projects\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.API\\ShopOnline.API.csproj",
+      "projectUniqueName": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.API\\ShopOnline.API.csproj",
       "projectName": "ShopOnline.API",
-      "projectPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.API\\ShopOnline.API.csproj",
+      "projectPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.API\\ShopOnline.API.csproj",
       "packagesPath": "C:\\Users\\The Berg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.API\\obj\\",
+      "outputPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -3979,8 +3979,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\The Berg\\OneDrive\\Projects\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj": {
-              "projectPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj"
+            "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj": {
+              "projectPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj"
             }
           }
         }

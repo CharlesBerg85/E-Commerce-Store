@@ -25,7 +25,7 @@ namespace ShopOnline.Web.Services
                 //this method will translate the data which will be in json returned
                 //from the web API Componenet to an object of type IEnumerable ProductDto
                 var products = await this.httpClient.GetFromJsonAsync<IEnumerable<ProductDto>>("api/Product");
-                return products
+                return products;
             }
             catch (Exception)
             {

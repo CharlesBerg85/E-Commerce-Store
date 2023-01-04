@@ -11,11 +11,10 @@ namespace ShopOnline.API.Controllers
     [ApiController]
     
     //here an object of type productRepository is automatically injected into our controller
-    //class's constructor via depecdency injection
     public class ProductController : ControllerBase
     {
         private readonly IProductRepository productRepository;
-
+        //constructor via depecdency injection
         public ProductController(IProductRepository productRepository) 
         {
             this.productRepository = productRepository;
@@ -39,8 +38,11 @@ namespace ShopOnline.API.Controllers
                 else
                 {
                     //we want to join the collection of ProductCategories with the collection of Products
-                    //this will return a collection of ProductDTOS to the Client the will also include 
-                    //CategoryName, remember the productDto definition contiains a CategoryName property 
+                    //this will return a collection of ProductDTOS to the Client and will also include 
+                    //CategoryName, remember the productDto definition contiains a CategoryName property
+                    //ConvertToDto is our extension method, this helps to keep our code cleaner 
+                    //check extension method to read the code need to convertToDto 
+                    
                     var productDtos = products.ConvertToDto((IEnumerable<Entities.ProductCategory>)productCategories);
 
                     return Ok(productDtos);

@@ -3,11 +3,27 @@
 @*when a Razor component with an @page directive is compiled the generated component class is provided a root... *@
 @*attribute specifying the component's root template. here we are providing a "/", this means when the URL contains...*@
 @*only the base URL for our Blazor Component that our ProductsDto Razor component will be invoked*@
+
 @page "/"
 @*this declares that the Razor component inherits the ProductsBase*@
 @inherits ProductsBase
+
 <h3>Products</h3>
 
-@code {
+@if(Products == null)
+{
+    <h3> Loading products...</h3>
+}
+else
+{
+    <h3 class="mb-5">Products</h3>
+
+    var productCount = Products.Count();
+
+    if(productCount > 0)
+    {
+        const int itemsPerRow = 4;
+        var products = new List<ProductDto>();
+    }
 
 }

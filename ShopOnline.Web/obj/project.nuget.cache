@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fwdHpEt1fD7BHUbxaxf5PIxwoOu1KgEEPrFSsGzYPuoriBw2FUWrSu1BXwQcOz6i/+SkqGz/p1GA4aTxN8mD/A==",
+  "dgSpecHash": "FC6vEmnt4i3EwT7kxm4fVsfkveRHKaWgdLuKof8tK49ylclTujrl8FhS42wjF7/JPr1m5TQgELKKFW5iqS/FVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\The Berg\\OneDrive\\Projects\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj",
+  "projectFilePath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\The Berg\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.11\\microsoft.aspnetcore.authorization.6.0.11.nupkg.sha512",
     "C:\\Users\\The Berg\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.11\\microsoft.aspnetcore.components.6.0.11.nupkg.sha512",

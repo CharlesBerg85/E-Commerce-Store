@@ -11,6 +11,7 @@ namespace ShopOnline.API.Repositories
         // these are the method definitions the were created in IProductRepository
         private readonly ShopOnlineDbContext shopOnlineDbContext;
 
+        //we want an object of type ShopOnlineDbContext to be injected in the constructor 
         public ProductRepository(ShopOnlineDbContext shopOnlineDbContext)
         {
             this.shopOnlineDbContext = shopOnlineDbContext;
@@ -18,6 +19,7 @@ namespace ShopOnline.API.Repositories
 
         public async Task<IEnumerable<ProductCategory>> GetCategories()
         {
+            //return all productCategories from our database 
             var categories = await this.shopOnlineDbContext.ProductCategories.ToListAsync();
             return categories;
         }

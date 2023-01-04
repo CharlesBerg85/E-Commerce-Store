@@ -14,10 +14,15 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 //***IMPORTANT INSTRUCTION HERE - MUST CONFIGURE CONNECTION BEFORE RUNNING MIGRATIONS
+//This will register our shop online dbcontext class for dependency injeciton
 builder.Services.AddDbContextPool<ShopOnlineDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("ShopOnlineConnection"))
 );
 
+//This will resgister our repositoy class with the dependency injection system
+//Using .AddScoped means that the same insatance of the object is injected into relevant classes,
+//within a particular HTTP request. Note that in this case a new instance of the relevant oject will be created
+//For each HTTP request
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 //builder.Services.AddScoped<IShoppingCartRepository, ShoppingCartRepository>();
 
