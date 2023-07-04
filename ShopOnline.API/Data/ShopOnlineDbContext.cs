@@ -7,11 +7,12 @@ namespace ShopOnline.API.Data
 {
     public class ShopOnlineDbContext:DbContext
     {
-           public ShopOnlineDbContext(DbContextOptions<ShopOnlineDbContext> options):base(options) 
+        // Constructor to initialize the DbContext with the provided options
+        public ShopOnlineDbContext(DbContextOptions<ShopOnlineDbContext> options):base(options) 
             {
             
             }
-
+        // Override the OnModelCreating method to configure the model
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
@@ -313,7 +314,7 @@ namespace ShopOnline.API.Data
             });
 
         }
-
+        // DbSet properties to represent database tables
         public DbSet<Cart> Carts { get; set; }
         public DbSet<CartItem> CartItems { get; set; }
         public DbSet<Product> Products { get; set; }

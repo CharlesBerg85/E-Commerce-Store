@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ShopOnline.Models"
+    "\\ShopOnline.API",
+    "\\ShopOnline.API\\Migrations"
   ],
-  "SelectedNode": "\\ShopOnlineSolution.sln",
+  "SelectedNode": "\\ShopOnline.API",
   "PreviewInSolutionExplorer": false
 }
