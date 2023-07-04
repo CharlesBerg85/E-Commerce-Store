@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ShopOnline.API",
-    "\\ShopOnline.API\\Migrations"
+    "\\ShopOnline.Web",
+    "\\ShopOnline.Web\\Pages"
   ],
-  "SelectedNode": "\\ShopOnline.API",
+  "SelectedNode": "\\ShopOnline.Web\\Pages\\DisplayProducts.razor",
   "PreviewInSolutionExplorer": false
 }

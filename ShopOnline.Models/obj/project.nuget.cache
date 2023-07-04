@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "peS9qRz5G7x4HnHTzAyk8uqyyoFlg1sTSRwdoYdciT2MZJviXVyqm8pv48BTi8+aWberlEg26BjBAPkPE/chRA==",
+  "dgSpecHash": "HIjOYhCwe0A9nw2c3LmF6nvyZWHfHIc1ULv+JFUARIa0nhBygHTmIaCD24REigfhdQWGsNwDdZaUk1r6Mru2ZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+  "projectFilePath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\E-Commerce-Store\\ShopOnline.Models\\ShopOnline.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj": {}
+    "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\E-Commerce-Store\\ShopOnline.Web\\ShopOnline.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj": {
+    "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\E-Commerce-Store\\ShopOnline.Models\\ShopOnline.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+        "projectUniqueName": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\E-Commerce-Store\\ShopOnline.Models\\ShopOnline.Models.csproj",
         "projectName": "ShopOnline.Models",
-        "projectPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+        "projectPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\E-Commerce-Store\\ShopOnline.Models\\ShopOnline.Models.csproj",
         "packagesPath": "C:\\Users\\The Berg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Models\\obj\\",
+        "outputPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\E-Commerce-Store\\ShopOnline.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -63,18 +63,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj": {
+    "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\E-Commerce-Store\\ShopOnline.Web\\ShopOnline.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj",
+        "projectUniqueName": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\E-Commerce-Store\\ShopOnline.Web\\ShopOnline.Web.csproj",
         "projectName": "ShopOnline.Web",
-        "projectPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj",
+        "projectPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\E-Commerce-Store\\ShopOnline.Web\\ShopOnline.Web.csproj",
         "packagesPath": "C:\\Users\\The Berg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Web\\obj\\",
+        "outputPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\E-Commerce-Store\\ShopOnline.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -99,8 +99,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj": {
-                "projectPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj"
+              "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\E-Commerce-Store\\ShopOnline.Models\\ShopOnline.Models.csproj": {
+                "projectPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\E-Commerce-Store\\ShopOnline.Models\\ShopOnline.Models.csproj"
               }
             }
           }
@@ -139,7 +139,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.12, 6.0.12]"
+              "version": "[6.0.18, 6.0.18]"
             }
           ],
           "frameworkReferences": {
@@ -147,7 +147,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

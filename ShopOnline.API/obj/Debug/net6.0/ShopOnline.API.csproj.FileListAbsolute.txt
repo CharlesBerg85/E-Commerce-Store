@@ -176,3 +176,13 @@ C:\Users\The Berg\OneDrive\Projects\Microsoft Solutions\C# .NET Projects\Blazor 
 C:\Users\The Berg\OneDrive\Projects\Microsoft Solutions\C# .NET Projects\Blazor Projects\ShopOnlineSolution\ShopOnline.API\obj\Debug\net6.0\ShopOnline.API.csproj.CopyComplete
 C:\Users\The Berg\OneDrive\Projects\Microsoft Solutions\C# .NET Projects\Blazor Projects\ShopOnlineSolution\ShopOnline.API\obj\Debug\net6.0\ShopOnline.API.genruntimeconfig.cache
 C:\Users\The Berg\OneDrive\Projects\Microsoft Solutions\C# .NET Projects\Blazor Projects\ShopOnlineSolution\ShopOnline.API\obj\Debug\net6.0\ref\ShopOnline.API.dll
+C:\Users\The Berg\OneDrive\Projects\Microsoft Solutions\C# .NET Projects\Blazor Projects\E-Commerce-Store\ShopOnline.API\obj\Debug\net6.0\ShopOnline.API.csproj.AssemblyReference.cache
+C:\Users\The Berg\OneDrive\Projects\Microsoft Solutions\C# .NET Projects\Blazor Projects\E-Commerce-Store\ShopOnline.API\obj\Debug\net6.0\ShopOnline.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The Berg\OneDrive\Projects\Microsoft Solutions\C# .NET Projects\Blazor Projects\E-Commerce-Store\ShopOnline.API\obj\Debug\net6.0\ShopOnline.API.AssemblyInfoInputs.cache
+C:\Users\The Berg\OneDrive\Projects\Microsoft Solutions\C# .NET Projects\Blazor Projects\E-Commerce-Store\ShopOnline.API\obj\Debug\net6.0\ShopOnline.API.AssemblyInfo.cs
+C:\Users\The Berg\OneDrive\Projects\Microsoft Solutions\C# .NET Projects\Blazor Projects\E-Commerce-Store\ShopOnline.API\obj\Debug\net6.0\ShopOnline.API.csproj.CoreCompileInputs.cache
+C:\Users\The Berg\OneDrive\Projects\Microsoft Solutions\C# .NET Projects\Blazor Projects\E-Commerce-Store\ShopOnline.API\obj\Debug\net6.0\ShopOnline.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The Berg\OneDrive\Projects\Microsoft Solutions\C# .NET Projects\Blazor Projects\E-Commerce-Store\ShopOnline.API\obj\Debug\net6.0\ShopOnline.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The Berg\OneDrive\Projects\Microsoft Solutions\C# .NET Projects\Blazor Projects\E-Commerce-Store\ShopOnline.API\obj\Debug\net6.0\ShopOnline.API.dll
+C:\Users\The Berg\OneDrive\Projects\Microsoft Solutions\C# .NET Projects\Blazor Projects\E-Commerce-Store\ShopOnline.API\obj\Debug\net6.0\refint\ShopOnline.API.dll
+C:\Users\The Berg\OneDrive\Projects\Microsoft Solutions\C# .NET Projects\Blazor Projects\E-Commerce-Store\ShopOnline.API\obj\Debug\net6.0\ShopOnline.API.pdb

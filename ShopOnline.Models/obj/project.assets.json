@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+      "projectUniqueName": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\E-Commerce-Store\\ShopOnline.Models\\ShopOnline.Models.csproj",
       "projectName": "ShopOnline.Models",
-      "projectPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+      "projectPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\E-Commerce-Store\\ShopOnline.Models\\ShopOnline.Models.csproj",
       "packagesPath": "C:\\Users\\The Berg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Models\\obj\\",
+      "outputPath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\E-Commerce-Store\\ShopOnline.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

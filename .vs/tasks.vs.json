@@ -5,6 +5,11 @@
       "taskLabel": "task-ShopOnline",
       "appliesTo": "ShopOnline.API/",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-ShopOnline",
+      "appliesTo": "ShopOnline.API/",
+      "type": "launch"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tDBhjBpWq8FDvKJgzhbZ2LnUueZMR8OhyBV0+bm51pQO4KYFO5UC4J3HISF1TwpV5nJv7ZyRsnAqfp+Jfhyw2Q==",
+  "dgSpecHash": "jlMpctt+xGSaIKbnDv0+ioksEQEEKBzjHZx1NVUY+t4ApQYiS+xcxRS0RNeu78DAaIVbewSvMhrxwFFiavb0Hg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.API\\ShopOnline.API.csproj",
+  "projectFilePath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\E-Commerce-Store\\ShopOnline.API\\ShopOnline.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\The Berg\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\The Berg\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

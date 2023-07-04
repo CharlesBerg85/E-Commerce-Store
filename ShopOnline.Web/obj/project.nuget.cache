@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FC6vEmnt4i3EwT7kxm4fVsfkveRHKaWgdLuKof8tK49ylclTujrl8FhS42wjF7/JPr1m5TQgELKKFW5iqS/FVA==",
+  "dgSpecHash": "MbRScZN0fNfGA9yEYyueuezs+CKIxLJhVlBIFLw3v6NTHwGaRa5e4AKoip8pWrXO2A6+QVkxaFkOb0DhAZgMAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj",
+  "projectFilePath": "C:\\Users\\The Berg\\OneDrive\\Projects\\Microsoft Solutions\\C# .NET Projects\\Blazor Projects\\E-Commerce-Store\\ShopOnline.Web\\ShopOnline.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\The Berg\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.11\\microsoft.aspnetcore.authorization.6.0.11.nupkg.sha512",
     "C:\\Users\\The Berg\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.11\\microsoft.aspnetcore.components.6.0.11.nupkg.sha512",
@@ -33,7 +33,7 @@
     "C:\\Users\\The Berg\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\The Berg\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\The Berg\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\The Berg\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.12\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.12.nupkg.sha512"
+    "C:\\Users\\The Berg\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.18\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.18.nupkg.sha512"
   ],
   "logs": []
 }
