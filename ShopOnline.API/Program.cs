@@ -21,7 +21,7 @@ builder.Services.AddDbContextPool<ShopOnlineDbContext>(options =>
 
 //This will resgister our repositoy class with the dependency injection system
 //Using .AddScoped means that the same insatance of the object is injected into relevant classes,
-//within a particular HTTP request. Note that in this case a new instance of the relevant oject will be created
+//within a particular HTTP request. Note that in this case a new instance of the relevant object will be created
 //For each HTTP request
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 //builder.Services.AddScoped<IShoppingCartRepository, ShoppingCartRepository>();

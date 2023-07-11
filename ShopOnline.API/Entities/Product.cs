@@ -25,4 +25,5 @@
         // Represents the foreign key that links the Product to its associated Category.
         public int CategoryId { get; set; }
     }
+}
 
