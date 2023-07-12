@@ -2474,3 +2474,4 @@ C:\Users\The Berg\OneDrive\Projects\Microsoft Solutions\C# .NET Projects\Blazor 
 C:\Users\The Berg\OneDrive\Projects\Microsoft Solutions\C# .NET Projects\Blazor Projects\E-Commerce-Store\ShopOnline.Web\obj\Debug\net6.0\refint\ShopOnline.Web.dll
 C:\Users\The Berg\OneDrive\Projects\Microsoft Solutions\C# .NET Projects\Blazor Projects\E-Commerce-Store\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.pdb
 C:\Users\The Berg\OneDrive\Projects\Microsoft Solutions\C# .NET Projects\Blazor Projects\E-Commerce-Store\ShopOnline.Web\obj\Debug\net6.0\ref\ShopOnline.Web.dll
+C:\Users\The Berg\OneDrive\Projects\Microsoft Solutions\C# .NET Projects\Blazor Projects\E-Commerce-Store\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplayProducts.razor.rz.scp.css
